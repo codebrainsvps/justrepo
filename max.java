@@ -9,6 +9,6 @@ System.out.println();
 if(a>b)
 System.out.println("maximum is"+a);
 else
-System.out.println("maximum is"+b);
+System.out.println("maximum is"+ab);
 }
 }
